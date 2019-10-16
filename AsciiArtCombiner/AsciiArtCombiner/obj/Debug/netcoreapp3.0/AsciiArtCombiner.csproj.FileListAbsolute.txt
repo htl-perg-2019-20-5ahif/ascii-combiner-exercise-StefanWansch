@@ -1,0 +1,14 @@
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.exe
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.deps.json
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.runtimeconfig.json
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.runtimeconfig.dev.json
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.dll
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\AsciiArtCombiner.pdb
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.csprojAssemblyReference.cache
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.AssemblyInfoInputs.cache
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.AssemblyInfo.cs
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.dll
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.pdb
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\ClassLibraryCombiner.dll
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\bin\Debug\netcoreapp3.0\ClassLibraryCombiner.pdb
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\AsciiArtCombiner\obj\Debug\netcoreapp3.0\AsciiArtCombiner.csproj.CopyComplete

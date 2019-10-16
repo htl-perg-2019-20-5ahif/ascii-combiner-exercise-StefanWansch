@@ -1,0 +1,8 @@
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\obj\Debug\netstandard2.0\ClassLibraryCombiner.csprojAssemblyReference.cache
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\obj\Debug\netstandard2.0\ClassLibraryCombiner.AssemblyInfoInputs.cache
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\obj\Debug\netstandard2.0\ClassLibraryCombiner.AssemblyInfo.cs
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\bin\Debug\netstandard2.0\ClassLibraryCombiner.deps.json
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\bin\Debug\netstandard2.0\ClassLibraryCombiner.dll
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\bin\Debug\netstandard2.0\ClassLibraryCombiner.pdb
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\obj\Debug\netstandard2.0\ClassLibraryCombiner.dll
+C:\Users\Stefan Wansch\source\repos\AsciiArtCombiner\ClassLibraryCombiner\obj\Debug\netstandard2.0\ClassLibraryCombiner.pdb
